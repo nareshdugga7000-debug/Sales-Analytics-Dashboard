@@ -1,0 +1,2 @@
+# Sales-Analytics-Dashboard
+Data analysis project using | Power B I SQL  | Excel for business insights
